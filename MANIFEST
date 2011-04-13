@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/POE-SAPI-HTTP.t
+lib/POE/SAPI/HTTP.pm
